@@ -109,7 +109,7 @@ import net.runelite.client.util.Text;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Bank Tag Layouts",
+	name = "mtsoltan Bank Tag Layouts",
 	description = "Right click a bank tag tabs and click \"Enable layout\", select the tag tab, then drag items in the tag to reposition them.",
 	tags = {"bank", "tag", "layout"}
 )

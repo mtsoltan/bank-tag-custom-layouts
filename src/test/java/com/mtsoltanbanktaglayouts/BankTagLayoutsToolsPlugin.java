@@ -18,7 +18,7 @@ import net.runelite.client.plugins.banktags.tabs.TagTab;
 import net.runelite.client.ui.overlay.OverlayManager;
 
 @PluginDescriptor(
-	name = "Bank Tag Layouts [Tools]",
+	name = "mtsoltan Bank Tag Layouts [Tools]",
 	description = "tools",
 	tags = {"bank", "tag", "layout"}
 )
