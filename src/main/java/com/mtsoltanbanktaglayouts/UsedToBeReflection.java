@@ -1,4 +1,4 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 import javax.inject.Inject;
 import net.runelite.api.Client;

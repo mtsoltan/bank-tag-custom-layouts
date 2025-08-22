@@ -1,8 +1,13 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 import java.awt.Dimension;
 import java.awt.Graphics2D;
 import javax.inject.Inject;
+
+import com.mtsoltanbanktaglayouts.BankTagLayoutsConfig;
+import com.mtsoltanbanktaglayouts.BankTagLayoutsPlugin;
+import com.mtsoltanbanktaglayouts.Layout;
+
 import net.runelite.api.widgets.ComponentID;
 import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayLayer;

@@ -1,4 +1,4 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 import inventorysetupz.InventorySetup;
 import inventorysetupz.InventorySetupsItem;

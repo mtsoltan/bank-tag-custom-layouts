@@ -22,11 +22,12 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package com.banktaglayouts.invsetupsstuff;
+package com.mtsoltanbanktaglayouts.invsetupsstuff;
 
-import com.banktaglayouts.BankTagLayoutsPlugin;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import com.mtsoltanbanktaglayouts.BankTagLayoutsPlugin;
+
 import inventorysetupz.InventorySetup;
 import inventorysetupz.InventorySetupsItem;
 import inventorysetupz.InventorySetupsVariationMapping;

@@ -1,9 +1,12 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.lang.reflect.Field;
 import java.util.Properties;
+
+import com.mtsoltanbanktaglayouts.BankTagLayoutsPlugin;
+
 import net.runelite.client.RuneLite;
 import net.runelite.client.RuneLiteProperties;
 import net.runelite.client.externalplugins.ExternalPluginManager;

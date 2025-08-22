@@ -1,0 +1,10 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.test.config": [
+    {
+      "name": "with-assertions",
+      "vmArgs": ["-ea"]
+    }
+  ],
+  "java.test.defaultConfig": "with-assertions"
+}

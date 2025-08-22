@@ -1,7 +1,9 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import com.mtsoltanbanktaglayouts.VersionNumber;
 
 public class VersionNumberTest
 {

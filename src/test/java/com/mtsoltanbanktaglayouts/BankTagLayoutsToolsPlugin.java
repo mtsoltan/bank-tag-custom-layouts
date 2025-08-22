@@ -1,6 +1,9 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 import javax.inject.Inject;
+
+import com.mtsoltanbanktaglayouts.BankTagLayoutsPlugin;
+
 import net.runelite.api.ChatMessageType;
 import net.runelite.api.Client;
 import net.runelite.api.events.CommandExecuted;

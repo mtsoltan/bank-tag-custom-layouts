@@ -1,4 +1,4 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 import ch.qos.logback.classic.Level;
 import ch.qos.logback.classic.Logger;
@@ -6,6 +6,12 @@ import com.google.inject.Guice;
 import com.google.inject.Inject;
 import com.google.inject.testing.fieldbinder.Bind;
 import com.google.inject.testing.fieldbinder.BoundFieldModule;
+import com.mtsoltanbanktaglayouts.BankTagLayoutsConfig;
+import com.mtsoltanbanktaglayouts.BankTagLayoutsPlugin;
+import com.mtsoltanbanktaglayouts.FakeItemOverlay;
+import com.mtsoltanbanktaglayouts.Layout;
+import com.mtsoltanbanktaglayouts.LayoutGenerator;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

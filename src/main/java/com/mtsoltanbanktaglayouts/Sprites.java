@@ -1,4 +1,4 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

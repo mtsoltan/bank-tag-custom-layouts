@@ -1,4 +1,4 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 class VersionNumber implements Comparable<Object>
 {

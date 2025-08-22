@@ -1,4 +1,4 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
 import lombok.RequiredArgsConstructor;
 import net.runelite.api.events.FocusChanged;

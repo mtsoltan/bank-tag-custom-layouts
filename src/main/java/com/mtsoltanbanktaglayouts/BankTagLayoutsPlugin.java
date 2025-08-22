@@ -1,6 +1,5 @@
-package com.banktaglayouts;
+package com.mtsoltanbanktaglayouts;
 
-import com.banktaglayouts.invsetupsstuff.InventorySetupsAdapter;
 import com.google.common.annotations.VisibleForTesting;
 import com.google.common.base.MoreObjects;
 import com.google.common.collect.LinkedListMultimap;
@@ -8,6 +7,8 @@ import com.google.common.collect.Multimap;
 import com.google.common.util.concurrent.Runnables;
 import com.google.gson.Gson;
 import com.google.inject.Provides;
+import com.mtsoltanbanktaglayouts.invsetupsstuff.InventorySetupsAdapter;
+
 import inventorysetupz.InventorySetup;
 import java.awt.Color;
 import java.awt.Rectangle;
